@@ -143,7 +143,7 @@ html {
     counter-reset: compteListe
 }
 
-@media (min-width:64rem) {
+@media (min-width:65rem) {
     .tutorial__steps {
         display: flex
     }
@@ -159,7 +159,7 @@ html {
     position: relative
 }
 
-@media (min-width:64rem) {
+@media (min-width:65rem) {
     .tutorial__step {
         flex: 1;
         margin: 0 0 0 2rem
